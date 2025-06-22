@@ -8,6 +8,8 @@ public class UpperCase2 {
 			String s1 = str[i];
 			System.out.print(Character.toUpperCase(s1.charAt(0))+s1.substring(1)+" ");
                System.out.println("git project");
+			 System.out.println("pull global to local");
+			
 		}
 	}
 }
