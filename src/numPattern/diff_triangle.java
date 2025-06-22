@@ -1,0 +1,5 @@
+package numPattern;
+
+public class  {
+
+}
